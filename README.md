@@ -1,0 +1,3 @@
+A spring based Rest application, which is used to store a unique user chatlog. A single user can have multiple message, each message has a unique Id and a is being assign to a unique user. Through this application we can perform post operation to save a chat message of single user, while saving it will generate a unique messageId on its own. We can also perform Get operation to get all the chat or only few [using concept of pagination] of a unique user. We can delete a user which will delete all its message log as well as we can also delete one specific message of a user.
+
+Technologies Used: Java, Spring Boot, JPA, Hibernate, MySQL, Pagination

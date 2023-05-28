@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dashboardnew
+    username: root
+    password: admin
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    open-in-view: true
+
+    

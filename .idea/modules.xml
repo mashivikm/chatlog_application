@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chat_Log_application-main.iml" filepath="$PROJECT_DIR$/.idea/Chat_Log_application-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatlog-assignment/chatlog-assignment.iml" filepath="$PROJECT_DIR$/chatlog-assignment/chatlog-assignment.iml" />
+    </modules>
+  </component>
+</project>
